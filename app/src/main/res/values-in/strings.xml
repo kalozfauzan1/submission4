@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission 4</string>
+    <string name="movies">Film</string>
+    <string name="tv_shows">Acara Tv</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="vote">Suara Penonton</string>
+    <string name="release">Dikeluarkan</string>
+    <string name="first_air_date">Tanggal disiarkan pertama</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="now_showing">ٍPertunjukan yang tayang</string>
+    <string name="release_date">Tanggal tayang</string>
+    <string name="movie_image">gambar film</string>
+    <string name="tv_image">gambar tv</string>
+    <string name="backdrop_detail">backdrop detail</string>
+    <string name="favorite">Favorit</string>
+    <string name="empty_data">Data Tidak Tersedia</string>
+</resources>

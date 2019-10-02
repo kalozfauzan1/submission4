@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission 4</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="overview">Overview</string>
+    <string name="popularity">Popularity</string>
+    <string name="vote">Vote</string>
+    <string name="release">Release</string>
+    <string name="first_air_date">First Air Date</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="now_showing">Now Showing</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_image">movie image</string>
+    <string name="tv_image">tv image</string>
+    <string name="backdrop_detail">backdrop detail</string>
+    <string name="favorite">Favourite</string>
+    <string name="empty_data">No Data Available</string>
+</resources>
